@@ -3,6 +3,7 @@ package ch03_DataStructure;
 import java.util.Arrays;
 import java.util.Scanner;
 
+
 public class Q001 {
     public static void main(String[] args){
 
